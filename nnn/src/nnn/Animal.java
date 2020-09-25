@@ -1,7 +1,9 @@
 package nnn;
 
  class Animal {
-
+	 /**
+	  * 定义一个父类Animal
+	  */
 	String name;
 	String hairColor;
 	String eyeColor;
